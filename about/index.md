@@ -1,37 +1,44 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About
+date: 2016-06-30
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+This is the personal website of William Hicks: poet, physicist, and software
+developer. Originally from Kennesaw, GA, he currently lives in Albany, NY.
+William graduated from Brown University in 2012 with a Bachelor of Science in
+physics and literary arts. His undergraduate physics thesis was entitled [*U(1)
+charges in weakly-coupled free-fermionic heterotic string models*](
+/assets/William_Hicks_2012_Physics_Thesis.pdf), for which he received the
+Mildred Widgoff Prize for Excellence in Thesis Preparation. His undergraduate
+literary arts thesis, a collection of poems entitled *Dayfall* was the
+departmental nominee for the Brown Distinguished Thesis Prize.
 
-## Preview
+After graduating from Brown, he went on to earn his Master of Science in
+physics at Brandeis University in 2014, where he worked on high-performance
+simulations of viral budding through cell membranes. He then returned to
+Brown University, where he completed a Master of Fine Arts in literary arts in
+2016. His MFA thesis (completed under the direction of Joanna Howard) was a
+novel-in-verse entitled *Jornada del Muerto*.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+William Hicks is the author of [*Stargazer's
+Kitchen*](http://www.spdbooks.org/Products/9780996367707/stargazers-kitchen.aspx),
+a collection of poems published by [Synecdoche](http://synecdochebooks.com/).
+He is also the lead developer of
+[Writing3D](https://github.com/wphicks/Writing3D), an open source project to
+create a simple, user-friendly point of entry for creation of sophisticated
+virtual reality (VR) content.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+William's programming interests include high-performance computing, game
+development, natural language processing, and VR applications. His literary
+interests (which occasionally overlap) include visual poetry, narrative poetry,
+and digital language arts. For more information about his software development
+background, check out [his resum&eacute;](
+/assets/William_Hicks_developer.pdf). For more information about his
+literary background, check out [his academic CV](
+/assets/William_Hicks_CV.pdf).
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+William's hobbies include long-distance running, boomerangs, and ballroom
+dance. Keep an eye on this space for posts about programming, literature, and
+all of these.
