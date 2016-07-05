@@ -12,7 +12,7 @@ comments: false
 
 # Riverdottir
 
-![symmetries_screenshot](/assets/img/Symmetries.png "Symmetries screenshot")
+![riverdottir_screenshot](/assets/img/Riverdottir.png "Riverdottir screenshot")
 
 ## Summary
  **Medium**: Custom Java software using the Processing library, written for
@@ -45,9 +45,9 @@ flickering language each audience member latches onto.
 In this slow revelation, *Riverdottir* highlights the complexity of
 aestheticized violence and misogyny. Viewers may find themselves attracted by
 its conventionally lovely surface, but whether they recoil from its underlying
-horror depends on how they (and the performer) direct their attention. In this
-way, the piece provides nuance to the conversation around aestheticized
-violence without excusing the inherent misogyny of the underlying topic.
+terror depends on how they (and the performer) direct their attention. In this
+way, the piece offers nuance in the conversation around aestheticized violence
+without mitigating its horror in the underlying myth.
 
 ## To View
 
@@ -57,23 +57,14 @@ make sure you have
 [Java installed](https://java.com/en/download/help/index_installing.xml) on
 your system. You should then be able to double-click on the downloaded jar file
 to execute it on most Windows and Mac systems as well as many Linux desktop
-environments.
+environments.  Once the piece is running, tap (do not hold down) a few keys on
+the keyboard to get a sense of how the piece can be performed.
 
-Once the piece is running, tap (do not hold down) a few keys on the keyboard to
-get a sense of how the piece can be performed. 
-
-You can also view video documentation[^1] of *Symmetries* below:
-<a href="http://www.youtube.com/embed/lSzSw-ZbEbw" target="_blank">
-    <img src="http://img.youtube.com/vi/lSzSw-ZbEbw/0.jpg" 
-        alt="Symmetries on YouTube" width="240" height="180" border="10" />
-</a>
+You can also view video documentation[^1] of a performance of *Riverdottir*
+below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcgUcTdbFdY" frameborder="0" allowfullscreen></iframe>
 
 ### Footnotes
-[^2]: Those readers with a physics background will note that this leaves out
-      general relativity (equivalently gravity). Understanding general
-      relativity in the framework described here is an open problem, but the
-      left-right/up-down symmetry of each poem is a gesture toward the
-      Poincar&eacute; group of *special* relativity.
 
 [^1]: Due to Youtube formatting requirements, the video/audio quality is not
       ideal for this documentation, so I encourage you to check out the "live"
