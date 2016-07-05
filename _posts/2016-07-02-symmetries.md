@@ -61,10 +61,7 @@ to execute it on most Windows and Mac systems as well as many Linux desktop
 environments.
 
 You can also view video documentation[^1] of *Symmetries* below:
-<a href="http://www.youtube.com/embed/lSzSw-ZbEbw" target="_blank">
-    <img src="http://img.youtube.com/vi/lSzSw-ZbEbw/0.jpg" 
-        alt="Symmetries on YouTube" width="240" height="180" border="10" />
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zrXVyPVZ1HQ" frameborder="0" allowfullscreen></iframe>
 
 ### Footnotes
 [^2]: Those readers with a physics background will note that this leaves out
