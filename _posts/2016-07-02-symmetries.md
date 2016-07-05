@@ -40,7 +40,7 @@ time, physicists have discovered far less obvious symmetries in nature,
 however. In fact, the transformations of every particle in the universe are
 governed by three symmetries, known as SU(3), SU(2), and U(1). Almost
 everything we understand about the fundamental building blocks of nature is
-determined by these three symmetries. This is a breath-takingly beautiful idea:
+determined by these three symmetries[^2]. This is a breath-takingly beautiful idea:
 Everything in the natural world, from the burning of distant stars to the
 incredible variety of life on Earth, is connected by these three simple
 symmetries; the universe is what it is because of these symmetries.
@@ -60,4 +60,21 @@ your system. You should then be able to double-click on the downloaded jar file
 to execute it on most Windows and Mac systems as well as many Linux desktop
 environments.
 
-You can also view a video version of *Symmetries* below:
+You can also view video documentation[^1] of *Symmetries* below:
+<a href="http://www.youtube.com/embed/lSzSw-ZbEbw" target="_blank">
+    <img src="http://img.youtube.com/vi/lSzSw-ZbEbw/0.jpg" 
+        alt="Symmetries on YouTube" width="240" height="180" border="10" />
+</a>
+
+### Footnotes
+[^2]: Those readers with a physics background will note that this leaves out
+      general relativity (equivalently gravity). Understanding general
+      relativity in the framework described here is an open problem, but the
+      left-right/up-down symmetry of each poem is a gesture toward the
+      Poincar&eacute; group of *special* relativity.
+
+[^1]: Due to Youtube formatting requirements, the video/audio quality is not
+      ideal for this documentation, so I encourage you to check out the "live"
+      runnable jar version if possible. Finding a way around these limitations
+      is high on my ever-overflowing todo list, so you should hopefully see a
+      cleaner version next time you visit.
