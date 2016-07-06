@@ -2,7 +2,7 @@
 layout: post
 title: The Alice Clock
 date: 2016-07-05
-excerpt: "A circular digital poem based on *Alice in Wonderland*"
+excerpt: A circular digital poem based on <em>Alice in Wonderland</em>
 project: true
 tag:
 - poetry
