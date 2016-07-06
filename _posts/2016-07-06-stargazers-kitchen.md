@@ -2,7 +2,7 @@
 layout: post
 title: Stargazer's Kitchen
 date: 2016-07-06
-excerpt: "A collection of poems and visual art"
+excerpt: "A book of poems and visual art"
 project: true
 tag:
 - poetry

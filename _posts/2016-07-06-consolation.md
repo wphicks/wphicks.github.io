@@ -2,7 +2,7 @@
 layout: post
 title: conSolation
 date: 2016-07-06
-excerpt: "A VR experience exploring hidden knowledge"
+excerpt: "A VR experience exploring isolation through hidden knowledge"
 project: true
 tag:
 - poetry
