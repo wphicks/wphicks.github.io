@@ -5,6 +5,7 @@ description:        "Online home of William Hicks: poet, physicist, and software
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
+author_photo:       'assets/img/william_hicks.jpg'
 background:         'assets/img/hicks_airport.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
