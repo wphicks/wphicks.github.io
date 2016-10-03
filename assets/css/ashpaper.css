@@ -1,0 +1,71 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background-image: url("/assets/img/hicks_airport.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+h1 {
+    color: #5D98A2;
+}
+
+a {
+    color: #A2675D;
+}
+
+#contentarea {
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    background: #eee;
+    max-width: 90em;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 90em;
+    min-width: 51em;
+    color:#555;
+}
+.column {
+    float: left;
+    width: 40%;
+    margin: 1em;
+    font-family: monospace;
+    line-height:1.5;
+    color:#333;
+}
+.clearfix:after {
+    content: ".";
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
+}
+
+#sourceCode {
+    height:400px;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    white-space: pre-wrap;
+    width: 100%;
+    min-width: 20em;
+}
+
+#output {
+    height: 100%;
+    white-space: pre-wrap;
+    min-width: 27em;
+}
+
+#aboutlink {
+    margin: 0 auto;
+    display: table;
+}
