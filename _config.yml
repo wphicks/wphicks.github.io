@@ -26,17 +26,11 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
-#disqus_shortname:   
-
 # Social
 # if you don't have any of social below, comment the line.
 #google:
   #plus:            #username
-  #analytics:
   #verify:
-  #ad-client:
-  #ad-slot:
 #bing-verify:
 #email:
 twitter:            whimsicalilk
