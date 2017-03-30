@@ -2,8 +2,7 @@
 layout: post
 date: 2016-10-03
 title: Update on Esopo
----
-
+--- 
 Last Wednesday, I had the opportunity to drop in on John Cayley's digital
 language arts workshop at Brown University for a wonderful discussion on
 language, translatability, and the promise/perils of natural language

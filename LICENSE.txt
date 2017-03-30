@@ -1,5 +1,7 @@
 Except where otherwise indicated, Copyright (c) 2016 William Hicks.
 
+All posts in _post directory are Copyright (c) 2016 William Hicks.
+
 This blog is based on the Moon Jekyll theme, covered by the following license.
 
 The MIT License (MIT)
