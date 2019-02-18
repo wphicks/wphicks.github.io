@@ -66,8 +66,6 @@ below:
 
 ### Footnotes
 
-[^1]: Due to Youtube formatting requirements, the video/audio quality is not
-      ideal for this documentation, so I encourage you to check out the "live"
-      runnable jar version if possible. Finding a way around these limitations
-      is high on my ever-overflowing todo list, so you should hopefully see a
-      cleaner version next time you visit.
+[^1]: Due to some sort of conversion issue on upload to YouTube, the
+    video/audio quality is not ideal for this documentation, so I encourage you to
+    check out the "live" runnable jar version if possible.

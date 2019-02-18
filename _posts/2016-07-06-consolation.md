@@ -93,9 +93,12 @@ As [Kristin Hayter](https://kristinhayter.com/) describes it:
 
 ## To View
 
-At the moment, *conSolation* can only be viewed in the Brown University CAVE
-using custom software, but it should soon be available through the
-[Writing3D project](/writing3d).
+*conSolation* is somewhat difficult to capture in any archival format. Filming
+of pieces in CAVEs invariably produces lackluster results, and this problem is
+compounded by the performative component of this particular piece. As something
+of a compromise, the following footage is presented which shows one example of
+the linguistic "architecture" which may be explored or revealed as part of a
+performance of *conSolation*. For those who wish to see a full performance and
+have access to Brown University campus, please feel free to contact me.
 
-Video documentation will also be available when I am next able to visit
-Brown University to record a performance.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xnSUuuJjyos" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
